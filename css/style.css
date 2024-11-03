@@ -38,6 +38,12 @@
     background-color: #715cac;
   }
 
+  .body {
+    background-color: #ffffff;
+    background-image: url("../images/aboutus2.jpg");
+    background-repeat: no-repeat;
+  }
+
   .text-purple {
     --bs-text-opacity: 2;
     color: #715cac;
@@ -46,6 +52,11 @@
   .border-dec {
     background-color: #715cac;
     border-radius: 15px;
+  }
+
+  .border-dec3 {
+    background-color: #715cac;
+    border-radius: 25px;
   }
 
   .border-dec2 {
@@ -59,3 +70,14 @@
     background-color: transparent;
     text-decoration: none;
   }
+
+  .line-h {
+    line-height: 10px;
+}
+
+.margin {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
